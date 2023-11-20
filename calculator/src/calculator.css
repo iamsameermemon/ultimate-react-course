@@ -1,0 +1,14 @@
+.calcbody{
+    height: 600px;
+    width: 400px;
+    margin: 20px auto; 
+    border : 2px solid black;
+    border-radius: 5px;
+}
+
+.calcDisp{
+    height: 580px;
+    width: 380px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
