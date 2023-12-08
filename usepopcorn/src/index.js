@@ -1,12 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
 
 //import {useState} from 'react';
 //import StarRating from './StarRating';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
 // function Test(){
 //   const [movieRating, setMovieRating] = useState();
@@ -18,7 +18,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 //   );
 // }
 
-
 root.render(
   <React.StrictMode>
     <App />
@@ -27,5 +26,3 @@ root.render(
     <Test />  */}
   </React.StrictMode>
 );
-
-

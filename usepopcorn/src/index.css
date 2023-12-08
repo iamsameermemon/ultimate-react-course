@@ -290,6 +290,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+  margin: 1.5rem;
 }
 
 .btn-add {
@@ -380,4 +381,3 @@ EMPTY STAR
 </svg>
 
 */
-
